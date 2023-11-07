@@ -1,7 +1,8 @@
-TAREFA: Criação de um projeto Java para autenticação de usuário e senha, utilizando o processo de testes TDD e a documentação da classe LoginScreen.
+#TAREFA
+Criação de um projeto Java para autenticação de usuário e senha, utilizando o processo de testes TDD e a documentação da classe LoginScreen.
 -------------------------------------------
 
-Classe LoginScreen
+##Classe LoginScreen
 
 /* 
 * Classe que implementa a interface 'map'.
@@ -67,7 +68,7 @@ public void addUser(String username, String password) {
 
 ---------------------------------------
 
-Classe de teste
+##Classe de teste
 
 import static org.junit.Assert.*;
 import org.junit.Test;
