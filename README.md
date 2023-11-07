@@ -1,5 +1,5 @@
 # Tarefa
-Criação de um projeto JAVA para autenticação de usuário e senha, utilizando o plano de teste TDD e a documentação da classe LoginScreen.
+Criação de um projeto JAVA para autenticação de usuário e senha, utilizando o plano de teste TDD (com auxílio do framework Junit) e a documentação da classe LoginScreen.
 
 
 ## Classe LoginScreen documentada
